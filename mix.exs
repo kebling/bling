@@ -41,6 +41,7 @@ defmodule Bling.MixProject do
     [
       {:ex_doc, "~> 0.29.4"},
       {:ecto_sql, "~> 3.6"},
+      {:ecto_ulid, "~> 0.3"},
       {:phoenix, "~> 1.7.2"},
       {:phoenix_live_view, "~> 0.20"},
       {:plug, "~> 1.14"},
